@@ -1,11 +1,5 @@
 <svg width="334" height="58" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
- <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
- <g>
-  <title>background</title>
-  <rect fill="#fff" id="canvas_background" height="60" width="336" y="-1" x="-1"/>
- </g>
- <g>
-  <title>Layer 1</title>
-  <text transform="matrix(1,0,0,1,0,0) " font-weight="bold" opacity="0.75" font-style="normal" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="52" id="svg_3" y="47" x="0" stroke-opacity="null" stroke-width="0" stroke="null" fill="#00008c">MONTAGNES</text>
- </g>
+<!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+	<rect fill="none" height="60" width="336" y="-1" x="-1"/>
+	<text font-weight="bold" opacity="0.75" font-style="normal" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="52" id="svg_3" y="47" x="0" stroke="null" fill="#00008c">MONTAGNES</text>
 </svg>
